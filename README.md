@@ -6,7 +6,7 @@ Your books live on your own disk, your notes on your own machine. No sign-in, no
 
 <p>
   <img alt="platform" src="https://img.shields.io/badge/platform-macOS%20%7C%20Windows-2f5fd0">
-  <img alt="version" src="https://img.shields.io/badge/version-0.3.1-a8612f">
+  <img alt="version" src="https://img.shields.io/badge/version-0.3.2-a8612f">
   <img alt="license" src="https://img.shields.io/badge/license-MIT-6d6860">
   <img alt="privacy" src="https://img.shields.io/badge/telemetry-none-2f8a5b">
 </p>
@@ -21,9 +21,9 @@ Pick the installer for your platform from [**Releases**](https://github.com/coll
 
 | Platform | File | Notes |
 |---|---|---|
-| macOS (Apple Silicon) | `Lumora-0.3.1-arm64.dmg` | Drag into Applications |
-| Windows 10 / 11 · 64-bit | `Lumora-0.3.1-x64-setup.exe` | Installer |
-| Windows 10 / 11 · 32-bit | `Lumora-0.3.1-ia32-setup.exe` | For older machines |
+| macOS (Apple Silicon) | `Lumora-0.3.2-arm64.dmg` | Drag into Applications |
+| Windows 10 / 11 · 64-bit | `Lumora-0.3.2-x64-setup.exe` | Installer |
+| Windows 10 / 11 · 32-bit | `Lumora-0.3.2-ia32-setup.exe` | For older machines |
 
 > These are the only two platforms: macOS is Apple Silicon native (no Intel build), Windows is 10 / 11. Windows 7 / 8 is no longer supported.
 

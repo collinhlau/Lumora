@@ -43,7 +43,8 @@ Most reading software assumes you will sign up for an account and upload your li
 
 - **Four formats**: EPUB (precise CFI positioning), PDF (original layout preserved), MOBI / AZW3 (hand-written pure-JS parser, zero dependencies), TXT (custom pagination).
 - **A position that survives**: close the app and reopen it, and you land on the same paragraph. Positions are stored as character offsets, so changing the font size, switching between single- and two-page layout, or resizing the window never drops you in the wrong place.
-- **Three paper tones**: light, sepia, and dark. The whole interface shifts with the page, not just the text.
+- **Four paper tones**: light, sepia, eye-care green, and dark. The whole interface shifts with the page, not just the text.
+- **Two interface languages**: English and 简体中文, switchable in Settings. On first launch it follows your system language and remembers what you pick; the native menu and system dialogs switch with it.
 - **Annotations**: select to highlight, attach a note, browse them grouped by chapter in the side panel, export to Markdown with backlinks.
 - **Read aloud**: system voices, chapter-long playback, the current sentence highlighted as it is spoken, automatic page and chapter turns, adjustable rate and voice.
 
@@ -51,7 +52,7 @@ Most reading software assumes you will sign up for an account and upload your li
 
 <sub>The current sentence is highlighted during playback, with controls at the bottom. Pages turn automatically.</sub>
 
-**Three paper tones**, with the interface following along:
+**Paper tones**, with the interface following along:
 
 | Sepia | Dark |
 |---|---|
